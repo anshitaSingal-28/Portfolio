@@ -65,7 +65,7 @@ function Certificate() {
               <h3>Trainer in Pragyan Program</h3>
               <p>
                 Trained 75+ students in resume building, communication, and
-                interview preparation during the PRAGYAN soft skills program.
+                interview preparation during the PRAGYAN Soft Skills Program.
                 Empowered juniors with essential career skills, fostering their
                 confidence and growth.
               </p>
