@@ -1,0 +1,30 @@
+
+[
+  {
+    "role": "Front End web Developer",
+    "organisation": "IBM (Skillsbuild)",
+    "startDate": "June, 2024",
+    "endDate": "Aug, 2024",
+    "experiences": ["Leveraged React and Tailwind CSS to create a responsive front-end for the Drishti Dham website", " Featured detailed temple information to enhance cultural appreciation and promote tourism"],
+    "imageSrc": "history/Ibm.png"
+  },
+  {
+    "role": "Front End web Developer",
+    "organisation": "Bharat Intern",
+    "startDate": "July, 2023",
+    "endDate": "Aug, 2023",
+    "experiences": ["Developed multiple front end projects", "Netflix clone, Calculator, Temperature Convertor"],
+    "imageSrc": "history/bharat.png"
+  },
+  {
+    "role": "Front End web Developer",
+    "organisation": "Oasis Infobyte",
+    "startDate": "Aug, 2023",
+    "endDate": "Sept, 2023",
+    "experiences": [
+      "Developed an e-commerce website with a dynamic product catalog.",
+      "Designed a movie ticket booking platform for seamless reservations."
+    ],
+    "imageSrc": "history/oasis.png"
+  }
+]

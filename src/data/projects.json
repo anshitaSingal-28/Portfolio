@@ -1,0 +1,26 @@
+[
+  {
+    "title": "AI Resume Builder",
+    "imageSrc": "projects/project.jpg",
+    "description": "Developed an advanced Resume Builder with real-time AI-driven summaries, and a dynamic dashboard using PostgreSQL for seamless resume management.",
+    "skills": ["React", "Tailwind", "Strapi","Clerk"],
+    "demo": "https://ai-resume-builder-website.netlify.app",
+    "source": "https://github.com/anshitaSingal-28/AI-Resume-Builder"
+  },
+  {
+    "title": "Open AI Gemini",
+    "imageSrc": "projects/project.jpg",
+    "description": "Developed a Generative AI application replicating Google Gemini functionality using Gemini API and React and • integrated Clerk for secure user authentication ",
+    "skills": ["React","Clerk"],
+    "demo": "https://googlegemini-ai.netlify.app",
+    "source": "https://github.com/anshitaSingal-28/Gemini"
+  },
+  {
+    "title": "CinemaHub - A Movie Ticket Booking Platform",
+    "imageSrc": "projects/project.jpg",
+    "description": "Developed a movie booking site with personalized suggestions, trailers, and secure ticket booking, enhancing user experience.",
+    "skills": ["HTML", "CSS", "Javascript"],
+    "demo": "",
+    "source": ""
+  }
+]
