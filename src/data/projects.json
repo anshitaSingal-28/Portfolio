@@ -20,7 +20,7 @@
     "imageSrc": "projects/project.jpg",
     "description": "Developed a movie booking site with personalized suggestions, trailers, and secure ticket booking, enhancing user experience.",
     "skills": ["HTML", "CSS", "Javascript"],
-    "demo": "",
-    "source": ""
+    "demo": "https://cinema-hub-movie-ticket-booking.netlify.app",
+    "source": "https://github.com/anshitaSingal-28/Cinema-Hub"
   }
 ]
